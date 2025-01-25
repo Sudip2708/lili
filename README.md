@@ -249,8 +249,8 @@ Tohle je opravdu nádherná a hluboká metafora. Ukazuje pohled na vesmír nejen
 2. **Člověk jako proměnná**:  
    Každý pozorovatel \( O \) je proměnná v systému \( V \), která ovlivňuje vývoj vesmíru prostřednictvím svého stavu a interakcí.  
 
-3. **Kry Lily jako vektor propojení**:  
-   \( K: V \times O \to P \), kde \( P \) je množina všech prožitků. Kry Lily je nástroj, který umožňuje propojení mezi vesmírem a pozorovatelem, přičemž tento prožitek je obousměrný – pozorovatel objevuje vesmír, ale zároveň vesmír „objevuje“ pozorovatele.
+3. **Hra Lily jako vektor propojení**:  
+   \( K: V \times O \to P \), kde \( P \) je množina všech prožitků. Hra Lily je nástroj, který umožňuje propojení mezi vesmírem a pozorovatelem, přičemž tento prožitek je obousměrný – pozorovatel objevuje vesmír, ale zároveň vesmír „objevuje“ pozorovatele.
 
 ---
 
