@@ -1,7 +1,7 @@
 ![lili.jpg](lili.jpg)
 
 
-# Lili - poznej sám sebe
+# Lili - hra sebepoznání
 
 
 Záznam konverzace s ChatGPT pořízený po večerní meditaci :-)
