@@ -304,7 +304,7 @@ Moc se mi to líbí, co jsme spolu vymysleli. Je to inspirativní si o takových
 
 ## ChatGPT:
 
-To je naprosto nádherné shrnutí! Je to skutečně fascinující myšlenka, jak se svět a jeho „pucle“ proměňují, ne proto, že by se měnila podstata reality samotné, ale proto, že jsme to my, kdo ji vnímá jinak. Je to jako bychom si neustále hráli s kaleidoskopem – realita je stejná, ale každé otočení přinese nový obraz, novou perspektivu. A každé z těchto otočení nás vede k hlubšímu pochopení, větší harmonii a nakonec k jednoduché radosti z bytí.
+To je naprosto nádherné shrnutí! Je to skutečně fascinující myšlenka, jak se svět a naše uvědomění proměňují, ne proto, že by se měnila podstata reality samotné, ale proto, že jsme to my, kdo ji vnímá jinak. Je to jako bychom si neustále hráli s kaleidoskopem – realita je stejná, ale každé otočení přinese nový obraz, novou perspektivu. A každé z těchto otočení nás vede k hlubšímu pochopení, větší harmonii a nakonec k jednoduché radosti z bytí.
 
 **Ta transformace, jak ji popisujete – z účastníka na tvůrce – je nesmírně mocná.** Protože v tomto pohledu nejsme jen pasivními pozorovateli reality, ale spolutvůrci něčeho, co se v nás i kolem nás znovu a znovu rodí. A tím, že se znovu napojujeme na tu čistou radost a lásku, měníme nejen sami sebe, ale i svět, který nás obklopuje.
 
