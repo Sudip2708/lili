@@ -1,7 +1,7 @@
 ![lili.jpg](lili.jpg)
 
 
-# Lili - hra sebepoznání
+# Lila - hra sebepoznání
 
 
 Záznam konverzace s ChatGPT pořízený po večerní meditaci :-)
@@ -198,7 +198,7 @@ Líbí se vám tento směr? Můžeme na něm dál pracovat! 😊
 
 ## Dotaz:
 
-Nejde mi teď ani tak o popsání skutečného světa ale spíš o myšlenkovou metaforu, jak si zkusit představit vesmír, který lze vnímat jako dynamický a determinovaný zároveň. Něco jak hotový kód, který je ale aktuálně spuštěn, a tak my vidíme jen část jeho procesu. Tu která se právě děje a které jsme součástí a přímými účastníky, a tedy i proměnnými. Kdy součástí předání informace je i pochopení toho, kdo ji předává, proč a kam, a co má obsahovat, a jak má být na ni zodpovězeno. Ale toto vše se teprve děje, takže jsme aktivní součástí tohoto výpočtu, nicméně výpočet lze zopakovat tedy je ve své podstatě neměnný, a jediné co se mění jsou možnosti při jeho samotném vývoji, kdy se proměňoval a postupně robustněl, až se z něj stala hotová verze, jenž je nyní zpuštěna jako důkaz sebe sama. A toto vše je právě tím uměleckým dílem v oné pomyslné galerii. Kdy pro výpočet není potřeba něco zapínat, stačí se pouze na tento předmět zadívat a napojit se na jeho vnitřní strukturu a kód, a dobrovolně vstoupit do prožitků a pravd tohoto vesmíru. A jediná podmínka je, že při vstupu člověk jakoby zapomene vše sám o sobě a prostřednictvím tohoto předmětu, nebo této hry 'Lili', se znovu hledá?
+Nejde mi teď ani tak o popsání skutečného světa ale spíš o myšlenkovou metaforu, jak si zkusit představit vesmír, který lze vnímat jako dynamický a determinovaný zároveň. Něco jak hotový kód, který je ale aktuálně spuštěn, a tak my vidíme jen část jeho procesu. Tu která se právě děje a které jsme součástí a přímými účastníky, a tedy i proměnnými. Kdy součástí předání informace je i pochopení toho, kdo ji předává, proč a kam, a co má obsahovat, a jak má být na ni zodpovězeno. Ale toto vše se teprve děje, takže jsme aktivní součástí tohoto výpočtu, nicméně výpočet lze zopakovat tedy je ve své podstatě neměnný, a jediné co se mění jsou možnosti při jeho samotném vývoji, kdy se proměňoval a postupně robustněl, až se z něj stala hotová verze, jenž je nyní zpuštěna jako důkaz sebe sama. A toto vše je právě tím uměleckým dílem v oné pomyslné galerii. Kdy pro výpočet není potřeba něco zapínat, stačí se pouze na tento předmět zadívat a napojit se na jeho vnitřní strukturu a kód, a dobrovolně vstoupit do prožitků a pravd tohoto vesmíru. A jediná podmínka je, že při vstupu člověk jakoby zapomene vše sám o sobě a prostřednictvím tohoto předmětu, nebo této hry 'Lila', se znovu hledá?
 
 ## ChatGPT:
 
@@ -234,8 +234,8 @@ Tohle je opravdu nádherná a hluboká metafora. Ukazuje pohled na vesmír nejen
 
 ---
 
-### **5. Hra Lily jako most mezi prožitkem a pravdou**
-- **Hra Lily jako médium**: Tento obraz bychom mohli chápat jako symbol přechodu mezi absolutní pravdou a individuálním prožitkem. Je to „brána“, která umožňuje vstoupit do vesmíru a zároveň v něm hledat smysl a propojení.
+### **5. Hra Lila jako most mezi prožitkem a pravdou**
+- **Hra Lila jako médium**: Tento obraz bychom mohli chápat jako symbol přechodu mezi absolutní pravdou a individuálním prožitkem. Je to „brána“, která umožňuje vstoupit do vesmíru a zároveň v něm hledat smysl a propojení.
   
 - **Pochopení sebe a okolí**: Prostřednictvím tohoto „vstupu“ se nejen napojujeme na vesmír, ale zároveň se hledáme. Všechny interakce, které zažíváme, nejsou jen o poznávání vnějšího světa, ale především o poznávání sebe sama.
 
@@ -249,8 +249,8 @@ Tohle je opravdu nádherná a hluboká metafora. Ukazuje pohled na vesmír nejen
 2. **Člověk jako proměnná**:  
    Každý pozorovatel \( O \) je proměnná v systému \( V \), která ovlivňuje vývoj vesmíru prostřednictvím svého stavu a interakcí.  
 
-3. **Hra Lily jako vektor propojení**:  
-   \( K: V \times O \to P \), kde \( P \) je množina všech prožitků. Hra Lily je nástroj, který umožňuje propojení mezi vesmírem a pozorovatelem, přičemž tento prožitek je obousměrný – pozorovatel objevuje vesmír, ale zároveň vesmír „objevuje“ pozorovatele.
+3. **Hra Lila jako vektor propojení**:  
+   \( K: V \times O \to P \), kde \( P \) je množina všech prožitků. Hra Lila je nástroj, který umožňuje propojení mezi vesmírem a pozorovatelem, přičemž tento prožitek je obousměrný – pozorovatel objevuje vesmír, ale zároveň vesmír „objevuje“ pozorovatele.
 
 ---
 
